@@ -1,13 +1,4 @@
-/**
- * @license XLTS for AngularJS v1.8.7
- * (c) 2021 XLTS.dev All Rights Reserved. https://xlts.dev/angularjs
- * License: Obtain a commercial license from XLTS.dev before using this software.
- */
-/**
- * @license AngularJS
- * (c) 2010-2020 Google LLC. http://angularjs.org
- * License: MIT
- */
+
 (function(window) {'use strict';
 
 /* exported
